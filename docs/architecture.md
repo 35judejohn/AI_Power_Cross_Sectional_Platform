@@ -267,3 +267,28 @@ flowchart TD
     Forecasting --> Dashboard
     MaintenanceML --> Dashboard
     InventoryRules --> Dashboard
+
+
+    
+---
+
+# 3. What This Architecture Means
+
+The architecture is divided into **eight major layers**.
+
+```text
+1. Users
+      ↓
+2. Web/Mobile Interface
+      ↓
+3. Application/API Layer
+      ↓
+4. Business Rules
+      ↓
+5. Data Layer
+      ↓
+6. AI/ML Layer
+      ↓
+7. IoT Layer
+      ↓
+8. Cloud Infrastructure
