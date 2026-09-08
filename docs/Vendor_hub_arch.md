@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
 
     Vendor["Supplier"]
